@@ -1,0 +1,3 @@
+[submodule "insuranceQA"]
+	path = insuranceQA
+	url = https://github.com/shuzi/insuranceQA
