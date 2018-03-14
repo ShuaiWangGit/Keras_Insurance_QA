@@ -1,3 +1,6 @@
 [submodule "insuranceQA"]
 	path = insuranceQA
 	url = https://github.com/shuzi/insuranceQA
+[submodule "insuranceQA-cnn-lstm"]
+	path = insuranceQA-cnn-lstm
+	url = https://github.com/ShuaiWangGit/insuranceQA-cnn-lstm.git
