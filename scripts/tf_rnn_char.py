@@ -2,6 +2,7 @@
 
 ####################################################################################
 #test1 top1准确率59%
+# Original Code Source : https://github.com/ShuaiWangGit/insuranceQA-cnn-lstm
 ####################################################################################
 import tensorflow as tf
 import numpy as np
